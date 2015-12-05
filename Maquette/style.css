@@ -1,0 +1,164 @@
+header div
+{
+background-color: white; 
+height: 150px;
+}
+.profil{
+        height:100px;
+}
+body
+{
+background-color:pink;    
+}
+
+img 
+{
+    height:90%;   
+    display:block;
+    margin:auto;
+    
+}
+
+.container
+{
+width: 100%;    
+}
+
+.color1{
+    background-color:purple;
+    width:100%;
+    height:400px;
+    margin-top:20px;
+    margin-bottom:20px;
+    position:relative;  
+    padding-top:100px;
+    
+      
+.color2{
+    background-color:red;
+    display:inline-block;
+    width:48%;
+    height:200px;
+    position: relative;
+   
+}
+
+.color3{
+    background-color:black;
+    width:48%;
+    height:200px;
+    margin-bottom:10px;
+    position: relative;
+    float:right;
+   
+}
+
+
+      
+.color4{
+    background-color:red;
+    display:inline-block;
+    width:48%;
+    height:200px;
+    margin-top:20px;
+    margin-bottom:20px;
+    position: relative;
+    
+}
+
+.color5{
+    background-color:blue;
+    width:48%;
+    height:200px;
+    position: relative;
+    margin-top:20px;
+    margin-bottom:20px;
+    float:right;
+  
+}
+
+      
+.color6{
+    background-color:pink;
+    width:100%;
+    height:420px;
+    position: relative; 
+    
+}
+
+
+            
+    
+
+
+/* colonne 3 -----------------------------------------------------------------*/
+        
+   
+.color7{
+    background-color:red;
+    width:100%;
+    height:200px;
+    position: relative; 
+    margin-top:20px;
+    margin-bottom:20px;
+    
+}
+
+        
+.color8{
+    background-color:blue;
+    display:inline-block;
+    width:48%;
+    height:200px;
+    position: relative;
+    margin-bottom:20px;
+    
+}
+
+.color9{
+    background-color:purple;
+    width:48%;
+    height:200px;
+    position: relative;
+    float:right;
+    margin-bottom:20px;
+   
+   
+}
+
+.color10{
+    background-color:blue;
+    display:inline-block;
+    width:48%;
+    height:200px;
+    position: relative;
+    
+}
+
+.color11{
+    background-color:blue;
+    width:48%;
+    height:200px;
+    position: relative;
+    float:right;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+.liseret{
+        position:absolute;
+        bottom:0px;
+        width:100%;
+        height:25px;
+        background-color:rgba(0,0,0,0.9);
+        color:white;
+        padding-left:25px;
+        
+}
+
+.arrow{
+       float:right; 
+       height:100%;
+       
+}
