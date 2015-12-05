@@ -1,0 +1,153 @@
+
+body
+{
+background-color:gray;    
+}
+
+.container
+{
+width: 100%;    
+}
+.color1{
+    background-color:grey;
+    display:inline-block;
+    width:100%;
+    height:420px;
+    margin-top:20px;
+    margin-bottom:20px;
+    position: relative;  
+    align-items:center;
+}
+
+        /* 2 small squares ----------*/
+.color2{
+    background-color:grey;
+    display:inline-block;
+    width:48%;
+    height:200px;
+    position: relative;
+    align-items:center;
+}
+
+.color3{
+    background-color:black;
+    width:48%;
+    height:200px;
+    margin-bottom:10px;
+    position: relative;
+    float:right;
+    align-items:center;
+}
+
+
+      
+.color4{
+    background-color:grey;
+    display:inline-block;
+    width:48%;
+    height:200px;
+    margin-top:20px;
+    margin-bottom:20px;
+    position: relative;
+    align-items:center;
+    
+}
+
+.color5{
+    background-color:gray;
+    width:48%;
+    height:200px;
+    position: relative;
+    margin-top:20px;
+    margin-bottom:20px;
+    float:right;
+    align-items:center;
+}
+
+        /* big square ----------*/
+.color6{
+    background-color:black;
+    width:100%;
+    height:420px;
+    position: relative; 
+    
+}
+
+/* colonne 3 -----------------------------------------------------------------*/
+        
+        /* long square ----------*/
+.color7{
+    background-color:gray;
+    width:100%;
+    height:200px;
+    position: relative; 
+    margin-top:20px;
+    margin-bottom:20px;
+    
+}
+
+        /* 4 small squares ----------*/
+.color8{
+    background-color:grey;
+    display:inline-block;
+    width:48%;
+    height:200px;
+    position: relative;
+    margin-bottom:20px;
+    
+}
+
+.color9{
+    background-color:grey;
+    width:48%;
+    height:200px;
+    position: relative;
+    float:right;
+    margin-bottom:20px;
+   
+   
+}
+
+.color10{
+    background-color:grey;
+    display:inline-block;
+    width:48%;
+    height:200px;
+    position: relative;
+    
+}
+
+.color11{
+    background-color:grey;
+    width:48%;
+    height:200px;
+    position: relative;
+    float:right;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+.y1
+{
+  display:inline-block;
+    width:140px;
+    height:140px;
+    margin:auto;
+        
+}
+
+.y2
+{
+   display:inline-block;
+    width:140px;
+    height:140px;
+    margin:auto;   
+}
+
+.y3
+{
+  display:inline-block;
+    align-items: center;
+    margin:auto;
+        
