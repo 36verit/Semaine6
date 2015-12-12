@@ -136,20 +136,18 @@ width: 100%;
     display:inline-block;
     width:48%;
     height:200px;
-    position: relative;
-    margin-bottom:60px;
-    padding-top:30px;
-    
+    position:relative;
+    margin-bottom:40px;
 }
 
 .color11{
+    float:right;
     background-color:red;
     width:48%;
-    height:100px;
+    height:150px;
     position:relative;
-    margin-bottom:30px;
-    padding-top:30;
-    float:right;
+    margin-bottom:20px;
+  
 }    
 
   
